@@ -15,6 +15,10 @@ $ conda install matplotlib pandas scikit-learn -y
 
 You can use the following command to train different model. After training the model, the program will automatically evaluate the model.
 
+```bash
+python 310551031_HW3.py
+```
+
 <p float="left">
   <img src="https://user-images.githubusercontent.com/44439517/174538121-04bd1a05-e26e-4833-9103-252bf0099509.png" width="60%" height="60%"/>
 </p>
